@@ -6108,5 +6108,50 @@
       "id":"1222",
        "name":"South Delhi",
        "state":"Delhi"
+    },
+    {
+      "id":"1223",
+       "name":"Center Delhi",
+       "state":"Delhi"
+    },
+    {
+      "id":"1224",
+       "name":"East Delhi",
+       "state":"Delhi"
+    },
+    {
+      "id":"1225",
+       "name":"West Delhi",
+       "state":"Delhi"
+    },,
+    {
+      "id":"1227",
+       "name":"North Delhi",
+       "state":"Delhi"
+    }
+    {
+      "id":"1228",
+       "name":"Nehru Place",
+       "state":"Delhi"
+    },
+    {
+      "id":"1229",
+       "name":"Karol Bhag",
+       "state":"Delhi"
+    },
+    {
+      "id":"1230",
+       "name":"Rohini",
+       "state":"Delhi"
+    },
+    {
+      "id":"1231",
+       "name":"Narela",
+       "state":"Delhi"
+    },
+    {
+      "id":"1232",
+       "name":"Delhi",
+       "state":"Delhi"
     }
 ]
