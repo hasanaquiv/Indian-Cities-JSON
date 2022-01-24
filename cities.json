@@ -6103,5 +6103,20 @@
       "id":"1221",
        "name":"Dispur",
        "state":"Assam"
+    },
+    {
+      "id":"1222",
+       "name":"South Delhi",
+       "state":"Delhi"
+    },
+    {
+      "id":"1222",
+       "name":"East Delhi",
+       "state":"Delhi"
+    },
+    {
+      "id":"1222",
+       "name":"Center Delhi",
+       "state":"Delhi"
     }
 ]
